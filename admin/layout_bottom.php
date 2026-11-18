@@ -1,0 +1,1 @@
+</main></div><script src="<?= base_url('assets/app.js') ?>"></script></body></html>
